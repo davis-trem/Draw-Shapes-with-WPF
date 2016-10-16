@@ -1,0 +1,14 @@
+c:\users\trey\documents\visual studio 2015\Projects\CSc 4820 hmwk4\CSc 4820 hmwk4\bin\Debug\CSc 4820 hmwk4.exe.config
+c:\users\trey\documents\visual studio 2015\Projects\CSc 4820 hmwk4\CSc 4820 hmwk4\bin\Debug\CSc 4820 hmwk4.exe
+c:\users\trey\documents\visual studio 2015\Projects\CSc 4820 hmwk4\CSc 4820 hmwk4\bin\Debug\CSc 4820 hmwk4.pdb
+c:\users\trey\documents\visual studio 2015\Projects\CSc 4820 hmwk4\CSc 4820 hmwk4\obj\Debug\CSc 4820 hmwk4.csprojResolveAssemblyReference.cache
+c:\users\trey\documents\visual studio 2015\Projects\CSc 4820 hmwk4\CSc 4820 hmwk4\obj\Debug\MainWindow.g.cs
+c:\users\trey\documents\visual studio 2015\Projects\CSc 4820 hmwk4\CSc 4820 hmwk4\obj\Debug\App.g.cs
+c:\users\trey\documents\visual studio 2015\Projects\CSc 4820 hmwk4\CSc 4820 hmwk4\obj\Debug\CSc 4820 hmwk4_MarkupCompile.cache
+c:\users\trey\documents\visual studio 2015\Projects\CSc 4820 hmwk4\CSc 4820 hmwk4\obj\Debug\CSc 4820 hmwk4_MarkupCompile.lref
+c:\users\trey\documents\visual studio 2015\Projects\CSc 4820 hmwk4\CSc 4820 hmwk4\obj\Debug\MainWindow.baml
+c:\users\trey\documents\visual studio 2015\Projects\CSc 4820 hmwk4\CSc 4820 hmwk4\obj\Debug\CSc 4820 hmwk4.g.resources
+c:\users\trey\documents\visual studio 2015\Projects\CSc 4820 hmwk4\CSc 4820 hmwk4\obj\Debug\CSc_4820_hmwk4.Properties.Resources.resources
+c:\users\trey\documents\visual studio 2015\Projects\CSc 4820 hmwk4\CSc 4820 hmwk4\obj\Debug\CSc 4820 hmwk4.csproj.GenerateResource.Cache
+c:\users\trey\documents\visual studio 2015\Projects\CSc 4820 hmwk4\CSc 4820 hmwk4\obj\Debug\CSc 4820 hmwk4.exe
+c:\users\trey\documents\visual studio 2015\Projects\CSc 4820 hmwk4\CSc 4820 hmwk4\obj\Debug\CSc 4820 hmwk4.pdb
